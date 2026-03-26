@@ -3,3 +3,9 @@ function fuckYouBtn() {
 
     button2.innerHTML = "Well that's mean";
 }
+
+function youreWelcomeBtn() {
+    const button01 = document.getElementById('button01');
+    
+    button01.innerHTML = "You're Very Welcome!"
+}
